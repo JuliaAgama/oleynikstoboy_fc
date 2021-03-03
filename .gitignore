@@ -11,6 +11,12 @@
 _brief/
 .DS_Store
 .idea
+<<<<<<< HEAD
 *.vscode
 /.vscode/
 git remote add origin https://github.com/JuliaAgama/oleynikstoboy_fc.git
+=======
+.vscode
+/.vscode/
+git remote add origin https://github.com/JuliaAgama/oleynikstoboy_fc.git
+>>>>>>> f585bbe672e8d088b5bf673f6d59ea356e1b9e6d
