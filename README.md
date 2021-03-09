@@ -4,6 +4,6 @@
 
 Web Preview link: https://juliaagama.github.io/oleynikstoboy_fc/
 
-for hosting copy:
+for hosting take:
 - index.html;
 - 'dist' folder;
