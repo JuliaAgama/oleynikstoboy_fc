@@ -10265,7 +10265,7 @@ a.text-dark:hover, a.text-dark:focus {
 @font-face {
   font-family: 'American Captain Cyrillic';
   /* src: url('/american_captain_cyrillic_font.woff2'); */
-  src: url('american_captain_cyrillic_font.ttf');
+  src: url('american_captain_cyrillic_font.ttf') format('truetype');
 }
 
 /* mobile first: basic styles for width: <=480px */
