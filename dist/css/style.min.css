@@ -10264,7 +10264,7 @@ a.text-dark:hover, a.text-dark:focus {
 /********** BASIC STYLES **********/
 @font-face {
   font-family: 'American Captain Cyrillic';
-  src: url(/american_captain_cyrillic_font.ttf);
+  src: url('/american_captain_cyrillic_font.ttf');
 }
 
 /* mobile first: basic styles for width: <=480px */
@@ -10418,14 +10418,12 @@ a {
   .main-section_title {
     font-size: 13.88889vw;
     margin-top: 10px;
-    padding-top: 50px;
   }
 }
 
 @media only screen and (min-width: 768px) {
   .main-section_title {
     font-size: 9.11458vw;
-    padding: 40px;
   }
 }
 
