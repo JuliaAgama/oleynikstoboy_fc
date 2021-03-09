@@ -10408,7 +10408,8 @@ a {
 }
 
 .main-section_title {
-  font-family: 'American Captain Cyrillic', sans-serif;
+  font-family: 'American Captain Cyrillic';
+  /* font-family: 'American Captain Cyrillic', sans-serif; */
   font-size: 15.625vw;
   padding-top: 60px;
 }
